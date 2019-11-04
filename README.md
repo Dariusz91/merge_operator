@@ -1,4 +1,4 @@
-##Description
+## Description
 
 You can use this project to try reproduce error resulting in failure of Flux merge operator.
 When it is merging two monos, one emitting empty element and other one emitting error 
